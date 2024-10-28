@@ -14,7 +14,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(209, 164, 97);
+  background-color: rgb(129, 109, 78);
 
   .content_div {
     width: 400px;
